@@ -41,7 +41,6 @@ createTodaysAgenda = () => {
         $('.container').append(newHourRow);
 
         var textareaId = '#taskInputBox' + militaryTime;
-        console.log(textareaId);
 
         if (militaryTime < currentHour) {
             $(textareaId).addClass('past');

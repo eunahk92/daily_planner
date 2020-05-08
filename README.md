@@ -1,6 +1,10 @@
 # daily_planner
 The user can log daily tasks from 9am-7pm to remind themselves of what they need to do! When it passes the hour stated on the log, the time block will turn grey to reflect that the hour has passed. If it is the current hour, it will be yellow. If you still have time left in the day to complete your tasks, those time blocks will be green. 
 
+## Link to Deployed Application
+
+https://eunahk92.github.io/daily_planner/
+
 ## Acceptance Criteria
 
 ```
